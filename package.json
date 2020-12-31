@@ -1,0 +1,20 @@
+{
+  "name": "nodejsrestapi",
+  "version": "1.0.0",
+  "description": "aplikasi node.js rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/yo2saputra/nodejsrestapi.git"
+  },
+  "keywords": [
+    "restapi\u001b[D\u001b[D\u001b[D",
+    "\u001b[C\u001bapi",
+    "nodejs"
+  ],
+  "author": "yo2saputra",
+  "license": "ISC"
+}
